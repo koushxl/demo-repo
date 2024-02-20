@@ -1,2 +1,1 @@
-# demo-repo
-Used as Demo
+# Typo Fixed
